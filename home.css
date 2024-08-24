@@ -1,0 +1,48 @@
+#main{
+    height:100vh;
+    background: url("https://wallpaperaccess.com/full/1385482.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    border:2px solid white;
+    color:white;
+    width:60vh;
+    height:50vh;
+}
+.form-group{
+    display: flex;
+    justify-content: space-evenly;
+}
+#email{
+    width:;
+    border-radius:10px;
+    margin-bottom: 5%;
+}
+#password{
+    border-radius: 10px;
+    margin:5%;
+}
+.btn{
+    margin-left: 50%;
+    margin-top: 5%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 7px;
+    width:10em;
+}
+.register-link {
+    margin-left: 28%;
+    margin-top: 0%;
+    padding:0%;
+    border:2px sold white;
+    color:black;
+    border-radius: 5px;
+    height:10%;
+}
+span{
+    border:2px solid black;
+    border-radius: 5px;;
+}
